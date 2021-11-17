@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Oscar Ivan and I am from Colombia, happy to see you here.
+#### Hi there 👋 My name is Oscar Ivan and I am from Colombia, happy to see you here.
 
 🚀 Building 1 new app delivery and , soon will be available.
 
