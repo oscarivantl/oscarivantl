@@ -4,11 +4,11 @@
 
 💥 In this repo you can find good practices & quality repos, feel free to contact me if anything caught your attention.
 
-🔭 I’m currently working mostly with Go, Python and Java, I'd a blog in DEV Community, I am actively publshit post with tips, techniques, new frameworks, patterns and so on, all the content in the blog is in Spanish and English. I am glad to receive feedback or new topics for my post.
+🔭 I’m currently working mostly with Go, Python and Java.
 
 🌱 Soon I will be updating the repository with all the documented codes.
 
-⚡ Currently writing experimental code for several things, but for my, except from work, everything is public so if any idea cames up, send me a ping (you can see gRPC, lot of REST services, CLI apps, etc).
+⚡ Currently writing experimental code for several things, but for my, except from work, everything is public so if any idea cames up, send me a ping (you can see lot of REST services, CLI apps, etc).
 
 📫 How to reach me: torres.tsp@gmail.com, oscar.torres@unipamplona.edu.co
 
