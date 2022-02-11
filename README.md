@@ -1,6 +1,6 @@
 #### Hi there 👋 My name is Oscar Ivan and I am from Colombia, happy to see you here.
 
-🚀 Building 1 new app delivery and , soon will be available.
+🚀 Building a new app delivery and soon will be available.
 
 💥 In this repo you can find good practices & quality repos, feel free to contact me if anything caught your attention.
 
