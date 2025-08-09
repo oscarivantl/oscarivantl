@@ -6,8 +6,6 @@
 
 🌱 Soon I will be updating the repository with all the documented codes.
 
-⚡ Currently writing experimental code for several things, but for my, except from work, everything is public so if any idea cames up, send me a ping (you can see lot of REST services, CLI apps, etc).
-
 📫 How to reach me: torres.tsp@gmail.com, oscar.torres@unipamplona.edu.co
 
 <!--
